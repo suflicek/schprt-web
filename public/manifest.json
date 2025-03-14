@@ -1,0 +1,22 @@
+{
+  "name": "SCHPRT - Maturita, prijímačky a monitor vo vačku",
+  "short_name": "SCHPRT",
+  "description": "Inteligentná aplikácia pre prípravu na maturitu, prijímačky a Monitor 9",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f13",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Dark%20Icon-W99yVFqxTJco8v2a9rpyGAkec4Ksji.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Dark%20Icon-W99yVFqxTJco8v2a9rpyGAkec4Ksji.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
